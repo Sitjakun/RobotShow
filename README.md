@@ -19,10 +19,9 @@ Example
 
 In a duct of length 10m two bots move face-to-face
 
+``
     >       <
-
 +-+-+-+-+-+-+-+-+-+-+  init state
-
 0 1 2 3 4 5 6 7 8 9 10
 
         X              after 2 sec
@@ -36,5 +35,5 @@ In a duct of length 10m two bots move face-to-face
                     >  after 2 sec
 +-+-+-+-+-+-+-+-+-+-+  the R bot is exiting
 0 1 2 3 4 5 6 7 8 9 10
-
+``
 Total bot running time: 8 sec
